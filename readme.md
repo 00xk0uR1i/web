@@ -7,7 +7,7 @@ Version: 1.1
 Date: $(date +%Y-%m-%d)  
 
 ## Overview
-This toolkit automates web pentesting tasks, running a variety of tests against specified web targets. It now includes enhanced techniques like SQL Injection, XSS Testing, Subdomain Enumeration, File Upload Testing, and Hidden Parameter Discovery. All outputs are color-coded for quick identification of vulnerabilities.
+This toolkit automates web pentesting tasks, running a variety of tests against specified web targets. It now includes enhanced techniques like SQL Injection, XSS Testing, Subdomain Enumeration, File Upload Testing, and Hidden Parameter Discovery.
 
 ---
 
@@ -17,9 +17,6 @@ This toolkit automates web pentesting tasks, running a variety of tests against 
 3. **Subdomain Enumeration**: Lists subdomains for a target domain.
 4. **File Upload Testing**: Verifies if the server accepts file uploads.
 5. **Hidden Parameter Discovery**: Finds hidden or undocumented parameters.
-6. **Color-Coded Results**:
-   - **Green**: Vulnerable
-   - **Red**: Not Vulnerable
 
 ---
 
