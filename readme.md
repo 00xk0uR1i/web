@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ### Example File Format for `targets.txt`
 Each line should contain a single target URL. Example:
 ```
-http://taget1.com
+http://target1.com
 https://target2.com
 ```
 
