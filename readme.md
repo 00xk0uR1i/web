@@ -44,18 +44,18 @@ pip install -r requirements.txt
 ### Script Options
 - **Single Target**: Test a single target URL.
   ```bash
-  ./pentesting_toolkit.sh -t http://example.com
+  ./web.sh -t http://target.com
   ```
 - **Multiple Targets**: Test multiple URLs listed in a file (`targets.txt`).
   ```bash
-  ./pentesting_toolkit.sh -f targets.txt
+  ./web.sh -f targets.txt
   ```
 
 ### Example File Format for `targets.txt`
 Each line should contain a single target URL. Example:
 ```
-http://example1.com
-https://example2.com
+http://taget1.com
+https://target2.com
 ```
 
 ---
