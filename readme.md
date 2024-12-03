@@ -4,7 +4,7 @@
 ## Author
 **k0ur1i**  
 Version: 1.1  
-Date: $(date +%Y-%m-%d)  
+
 
 ## Overview
 This toolkit automates web pentesting tasks, running a variety of tests against specified web targets. It now includes enhanced techniques like SQL Injection, XSS Testing, Subdomain Enumeration, File Upload Testing, and Hidden Parameter Discovery.
